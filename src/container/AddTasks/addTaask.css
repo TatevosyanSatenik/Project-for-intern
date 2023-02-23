@@ -1,0 +1,21 @@
+input,textarea{
+    width: 100%;
+    padding: 12px 20px;
+    margin: 8px 0;
+    display: inline-block;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    box-sizing: border-box;
+    background-color: antiquewhite;
+    
+}
+button:hover {
+    background-color: rgb(234, 117, 117);
+    transition: 0.2s;
+    border: none;
+    cursor: pointer;
+} 
+button{
+    padding: 10px 40px;
+    border: 2px solid;
+}

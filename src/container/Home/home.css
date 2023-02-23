@@ -1,0 +1,12 @@
+
+@media (max-width: 800px) {
+    .div1 {
+        flex-direction: column;
+    }
+}
+.a1{
+    position: absolute;
+}
+.b1{
+    position: relative
+}
